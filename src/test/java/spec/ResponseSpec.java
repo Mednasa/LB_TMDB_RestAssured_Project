@@ -8,7 +8,7 @@ public class ResponseSpec {
 
     public static ResponseSpecification getResponseSpec(int statusCode) {
         return new ResponseSpecBuilder()
-                .expectStatusCode(statusCode)// statusCode(200)
+                .expectStatusCode(statusCode)
                 .build();
 
     }
