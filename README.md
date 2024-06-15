@@ -1,4 +1,4 @@
-![Ss5gEYF_STKnVa07cJfCdw](https://github.com/Mednasa/_LB_Nopcommerce_Project/assets/159004360/bc5cce3f-2550-4c18-93b1-0051b869869b)
+
 # TMDB API
 
 The project was created using the API of the TMDB page. You can find the description of the functions and their usage at https://developers.themoviedb.org/3/getting-started/introduction.
